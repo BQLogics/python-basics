@@ -1,0 +1,366 @@
+Sure! Here are 300 questions focusing on the use of the `while` loop in Python, designed to help you practice and improve your logical thinking:
+
+### Basic While Loop Practice
+1. Print numbers from 1 to 10 using a while loop.
+2. Print even numbers between 1 and 20 using a while loop.
+3. Print odd numbers between 1 and 20 using a while loop.
+4. Print the first 10 multiples of 3 using a while loop.
+5. Print numbers from 10 to 1 in reverse order using a while loop.
+6. Print the sum of numbers from 1 to 10 using a while loop.
+7. Print the factorial of a given number using a while loop.
+8. Print the squares of numbers from 1 to 10 using a while loop.
+9. Print the cube of numbers from 1 to 10 using a while loop.
+10. Count the number of digits in a given number using a while loop.
+
+### Intermediate While Loop Practice
+11. Print the Fibonacci series up to a given number using a while loop.
+12. Check if a number is prime using a while loop.
+13. Reverse a given number using a while loop.
+14. Check if a given number is a palindrome using a while loop.
+15. Calculate the GCD of two numbers using a while loop.
+16. Find the LCM of two numbers using a while loop.
+17. Print the sum of digits of a given number using a while loop.
+18. Print the product of digits of a given number using a while loop.
+19. Print the reverse of a string using a while loop.
+20. Count the number of vowels in a given string using a while loop.
+
+### Advanced While Loop Practice
+21. Print the binary representation of a given number using a while loop.
+22. Convert a binary number to its decimal representation using a while loop.
+23. Find the sum of squares of digits of a given number using a while loop.
+24. Find the product of the first n natural numbers using a while loop.
+25. Print all prime numbers up to a given number using a while loop.
+26. Print all Armstrong numbers up to a given number using a while loop.
+27. Print the sum of the first n Fibonacci numbers using a while loop.
+28. Print the first n terms of the geometric progression using a while loop.
+29. Print the sum of an arithmetic series using a while loop.
+30. Calculate the power of a number using a while loop.
+
+### Nested While Loop Practice
+31. Print a multiplication table up to 10 using nested while loops.
+32. Print a pattern of stars in the shape of a right triangle using nested while loops.
+33. Print a pattern of numbers in the shape of a pyramid using nested while loops.
+34. Print the transpose of a given matrix using nested while loops.
+35. Print the sum of each row in a matrix using nested while loops.
+36. Print the sum of each column in a matrix using nested while loops.
+37. Find the maximum element in a 2D list using nested while loops.
+38. Find the minimum element in a 2D list using nested while loops.
+39. Print the diagonal elements of a matrix using nested while loops.
+40. Print the border elements of a matrix using nested while loops.
+
+### Application-Based While Loop Practice
+41. Simulate a simple calculator using a while loop.
+42. Implement a number guessing game using a while loop.
+43. Simulate a bank account system using a while loop.
+44. Implement a simple text-based menu using a while loop.
+45. Create a login system with username and password validation using a while loop.
+46. Implement a to-do list application using a while loop.
+47. Simulate a dice-rolling game using a while loop.
+48. Implement a rock-paper-scissors game using a while loop.
+49. Create a program that converts temperatures between Celsius and Fahrenheit using a while loop.
+50. Implement a program that calculates compound interest using a while loop.
+
+### Mathematical Problems Using While Loops
+51. Print the sum of the first n prime numbers using a while loop.
+52. Find the factorial of each number in a list using a while loop.
+53. Calculate the sum of the first n terms of a harmonic series using a while loop.
+54. Find the nth term of a Fibonacci sequence using a while loop.
+55. Check if a number is a perfect square using a while loop.
+56. Find the sum of the squares of the first n natural numbers using a while loop.
+57. Calculate the sum of the first n terms of a geometric series using a while loop.
+58. Find the nth triangular number using a while loop.
+59. Calculate the sum of the digits of a factorial using a while loop.
+60. Check if a number is a perfect number using a while loop.
+
+### Character and String Manipulation Using While Loops
+61. Count the number of consonants in a given string using a while loop.
+62. Check if two strings are anagrams using a while loop.
+63. Print the ASCII value of each character in a string using a while loop.
+64. Replace all vowels in a string with a specific character using a while loop.
+65. Convert a string to uppercase without using built-in functions using a while loop.
+66. Convert a string to lowercase without using built-in functions using a while loop.
+67. Count the number of words in a sentence using a while loop.
+68. Reverse the words in a sentence using a while loop.
+69. Check if a string is a palindrome using a while loop.
+70. Remove all spaces from a string using a while loop.
+
+### Array and List Operations Using While Loops
+71. Find the sum of all elements in an array using a while loop.
+72. Find the product of all elements in an array using a while loop.
+73. Find the maximum value in an array using a while loop.
+74. Find the minimum value in an array using a while loop.
+75. Calculate the average of elements in an array using a while loop.
+76. Reverse the elements of an array using a while loop.
+77. Count the occurrence of a specific element in an array using a while loop.
+78. Find the second largest element in an array using a while loop.
+79. Sort an array in ascending order using a while loop (e.g., bubble sort).
+80. Merge two sorted arrays into a single sorted array using a while loop.
+
+### Conditional and Logical Practice Using While Loops
+81. Print all numbers from 1 to 100 that are divisible by 7 using a while loop.
+82. Print all numbers from 1 to 100 that are divisible by both 3 and 5 using a while loop.
+83. Check if a number is a power of 2 using a while loop.
+84. Find the largest prime factor of a given number using a while loop.
+85. Print all prime factors of a given number using a while loop.
+86. Count the number of positive and negative numbers in a list using a while loop.
+87. Find the longest consecutive sequence of 1s in a binary number using a while loop.
+88. Find the sum of even-indexed elements in an array using a while loop.
+89. Check if a number is a Harshad number using a while loop.
+90. Find the sum of the first n terms of the Fibonacci sequence using a while loop.
+
+### Game Development Using While Loops
+91. Implement a simple text-based Tic-Tac-Toe game using while loops.
+92. Create a number-guessing game with multiple difficulty levels using a while loop.
+93. Implement a text-based adventure game using a while loop.
+94. Create a hangman game using a while loop.
+95. Simulate a basic card game using while loops.
+96. Develop a simple text-based RPG battle system using while loops.
+97. Create a maze game where the player moves using a while loop.
+98. Implement a simple dice-rolling simulator using a while loop.
+99. Develop a text-based version of the game Snake using a while loop.
+100. Create a quiz game that asks multiple-choice questions using a while loop.
+
+### Data Handling Using While Loops
+101. Read and print each line from a file using a while loop.
+102. Count the number of lines in a file using a while loop.
+103. Find the longest word in a file using a while loop.
+104. Count the occurrence of a specific word in a file using a while loop.
+105. Calculate the average word length in a file using a while loop.
+106. Copy the contents of one file to another using a while loop.
+107. Reverse the contents of a file line by line using a while loop.
+108. Remove duplicate lines from a file using a while loop.
+109. Count the number of characters, words, and lines in a file using a while loop.
+110. Encrypt the contents of a file using a simple cipher with a while loop.
+
+### Advanced Problems and Algorithms Using While Loops
+111. Implement the Euclidean algorithm to find the GCD using a while loop.
+112. Implement the Sieve of Eratosthenes to find all primes up to a given number using a while loop.
+113. Implement a basic sorting algorithm (e.g., selection sort) using a while loop.
+114. Solve the Tower of Hanoi problem using a while loop.
+115. Implement the binary search algorithm using a while loop.
+116. Solve the knapsack problem using a while loop.
+117. Find the median of a list using a while loop.
+118. Implement a queue using a while loop.
+119. Implement a stack using a while loop.
+120. Find the shortest path in a maze using a while loop.
+
+### Patterns and Designs Using While Loops
+121. Print a square pattern using asterisks with a while loop.
+122. Print a right-angled triangle pattern using numbers with a while loop.
+123. Print an inverted right-angled
+
+ triangle pattern using a while loop.
+124. Print a pyramid pattern using asterisks with a while loop.
+125. Print a diamond pattern using asterisks with a while loop.
+126. Print a hollow square pattern using asterisks with a while loop.
+127. Print a checkerboard pattern using a while loop.
+128. Print a butterfly pattern using asterisks with a while loop.
+129. Print a Pascal’s triangle using a while loop.
+130. Print a Floyd’s triangle using a while loop.
+
+### More Complex Algorithms Using While Loops
+131. Implement the quicksort algorithm using a while loop.
+132. Implement the merge sort algorithm using a while loop.
+133. Solve the 8-queens problem using a while loop.
+134. Implement Dijkstra's algorithm using a while loop.
+135. Implement the Bellman-Ford algorithm using a while loop.
+136. Implement the Floyd-Warshall algorithm using a while loop.
+137. Solve the traveling salesman problem using a while loop.
+138. Implement the knapsack problem with dynamic programming using a while loop.
+139. Implement the coin change problem using a while loop.
+140. Implement the Longest Common Subsequence (LCS) algorithm using a while loop.
+
+### Recursive Problems Using While Loops
+141. Convert recursive functions to iterative ones using a while loop (e.g., factorial).
+142. Implement a recursive Fibonacci function using a while loop.
+143. Solve the recursive Tower of Hanoi using a while loop.
+144. Convert a recursive binary search function to a while loop.
+145. Convert a recursive merge sort function to a while loop.
+146. Implement a recursive function to compute power using a while loop.
+147. Implement a recursive function for string reversal using a while loop.
+148. Implement a recursive function for palindrome check using a while loop.
+149. Convert a recursive function for GCD calculation to a while loop.
+150. Convert a recursive function for calculating the nth Fibonacci number to a while loop.
+
+### Real-Life Applications Using While Loops
+151. Simulate a simple traffic light system using a while loop.
+152. Create a simple vending machine simulator using a while loop.
+153. Implement a basic ATM machine simulator using a while loop.
+154. Simulate a login system with account lockout after three attempts using a while loop.
+155. Create a basic stock market simulator using a while loop.
+156. Implement a weather forecasting simulator using a while loop.
+157. Create a simple online shopping cart system using a while loop.
+158. Simulate a library management system using a while loop.
+159. Implement a student grading system using a while loop.
+160. Create a basic hospital management system using a while loop.
+
+### Data Analysis Using While Loops
+161. Calculate the mean, median, and mode of a list of numbers using a while loop.
+162. Find the range and standard deviation of a list of numbers using a while loop.
+163. Implement a histogram generator using a while loop.
+164. Find the correlation between two datasets using a while loop.
+165. Calculate the linear regression of a dataset using a while loop.
+166. Implement a basic data clustering algorithm using a while loop.
+167. Perform a moving average calculation on a dataset using a while loop.
+168. Implement a basic anomaly detection system using a while loop.
+169. Calculate the cumulative sum of a dataset using a while loop.
+170. Perform a frequency distribution analysis on a dataset using a while loop.
+
+### Simulation and Modeling Using While Loops
+171. Simulate a simple random walk using a while loop.
+172. Create a population growth model using a while loop.
+173. Simulate a basic predator-prey model using a while loop.
+174. Implement a simple epidemic spread model using a while loop.
+175. Simulate the movement of particles in a box using a while loop.
+176. Create a basic financial model using a while loop.
+177. Simulate a simple queuing system using a while loop.
+178. Implement a basic cellular automaton using a while loop.
+179. Simulate the spread of fire in a forest using a while loop.
+180. Create a basic traffic flow simulation using a while loop.
+
+### String Processing Using While Loops
+181. Count the frequency of each character in a string using a while loop.
+182. Find the first non-repeated character in a string using a while loop.
+183. Implement a basic spell checker using a while loop.
+184. Perform a Caesar cipher encryption on a string using a while loop.
+185. Perform a Caesar cipher decryption on a string using a while loop.
+186. Implement a basic string search algorithm using a while loop.
+187. Count the number of substrings in a string using a while loop.
+188. Implement a basic pattern matching algorithm using a while loop.
+189. Find the longest substring without repeating characters using a while loop.
+190. Reverse the order of words in a string using a while loop.
+
+### Mathematical Series and Sequences Using While Loops
+191. Print the first n terms of an arithmetic series using a while loop.
+192. Print the first n terms of a geometric series using a while loop.
+193. Calculate the sum of an infinite geometric series using a while loop.
+194. Print the first n terms of the Harmonic series using a while loop.
+195. Find the nth term of a given sequence using a while loop.
+196. Calculate the sum of the first n terms of an arithmetic series using a while loop.
+197. Calculate the sum of the first n terms of a geometric series using a while loop.
+198. Print the first n terms of the Lucas sequence using a while loop.
+199. Calculate the sum of the first n terms of a quadratic series using a while loop.
+200. Find the nth term of the Pell sequence using a while loop.
+
+### Logical Puzzles Using While Loops
+201. Solve the classic "100 doors" problem using a while loop.
+202. Implement the Josephus problem using a while loop.
+203. Solve the "sum of subset" problem using a while loop.
+204. Implement a solution to the "n-queens" problem using a while loop.
+205. Solve the "Knight's tour" problem using a while loop.
+206. Implement a solution to the "subset sum" problem using a while loop.
+207. Solve the "partition problem" using a while loop.
+208. Implement a solution to the "coin change" problem using a while loop.
+209. Solve the "egg drop" problem using a while loop.
+210. Implement a solution to the "word ladder" problem using a while loop.
+
+### Advanced Data Structures Using While Loops
+211. Implement a linked list using a while loop.
+212. Perform insertion in a linked list using a while loop.
+213. Perform deletion in a linked list using a while loop.
+214. Traverse a linked list using a while loop.
+215. Implement a stack using a linked list and while loop.
+216. Implement a queue using a linked list and while loop.
+217. Perform a depth-first search (DFS) in a graph using a while loop.
+218. Perform a breadth-first search (BFS) in a graph using a while loop.
+219. Implement a binary search tree using a while loop.
+220. Perform in-order traversal of a binary tree using a while loop.
+
+### Recursive Algorithms Converted to While Loops
+221. Convert a recursive factorial function to a while loop.
+222. Convert a recursive Fibonacci function to a while loop.
+223. Convert a recursive function for finding the GCD to a while loop.
+224. Convert a recursive function for the Tower of Hanoi to a while loop.
+225. Convert a recursive function for binary search to a while loop.
+226. Convert a recursive function for merge sort to a while loop.
+227. Convert a recursive function for quicksort to a while loop.
+228. Convert a recursive function for depth-first search to a while loop.
+229. Convert a recursive function for breadth-first search to a while loop.
+230. Convert a recursive function for calculating power to a while loop.
+
+### Scientific Computations Using While Loops
+231. Calculate the value of pi using a while loop and the Monte Carlo method.
+232. Simulate the decay of a radioactive substance using a while loop.
+233. Implement the Newton-Raphson method for finding roots using a while loop.
+234. Calculate the value of e using a while loop and the series expansion.
+235. Implement the Secant method for finding roots using a while loop.
+236. Calculate the natural logarithm of a number using a while loop.
+237. Implement the trapezoidal rule for numerical integration using a while loop.
+238. Implement Simpson's rule for numerical integration using a while loop.
+239. Calculate the determinant of a matrix using a while loop.
+240. Solve a system of linear equations using the Gauss-Seidel method and a while loop.
+
+### Miscellaneous Practice Using While Loops
+241. Find the longest common prefix of a list of strings using a while loop.
+242. Implement a basic text editor using a while loop.
+243. Create a simple chatbot using a while loop.
+244. Simulate a basic phonebook using a while loop.
+245. Implement a spell-checker using a while loop.
+246. Create a simple event planner using a while loop.
+247. Implement a basic inventory management system using a while loop.
+248. Create a program to convert Roman numerals to integers using a while loop.
+249. Implement a program to convert integers to Roman numerals using a while loop.
+250. Simulate a basic railway reservation system using a while loop.
+
+### Sorting and Searching Using While Loops
+251. Implement insertion sort using a while loop.
+252. Implement selection sort using a while loop.
+253. Implement bubble sort using a while loop.
+254. Implement quicksort using a while loop.
+255. Implement merge sort using a while loop.
+256. Implement heap sort using a while loop.
+257. Implement binary search using a while loop.
+258. Implement linear search using a while loop.
+259
+
+. Implement interpolation search using a while loop.
+260. Implement jump search using a while loop.
+
+### More Real-Life Applications Using While Loops
+261. Create a simple movie ticket booking system using a while loop.
+262. Simulate a basic flight reservation system using a while loop.
+263. Implement a simple hotel booking system using a while loop.
+264. Create a program to manage employee records using a while loop.
+265. Simulate a basic parking lot management system using a while loop.
+266. Implement a basic expense tracker using a while loop.
+267. Create a program to manage student records using a while loop.
+268. Simulate a simple library catalog system using a while loop.
+269. Implement a basic payroll system using a while loop.
+270. Create a simple gym membership management system using a while loop.
+
+### Cryptography Using While Loops
+271. Implement the Caesar cipher using a while loop.
+272. Implement the Vigenère cipher using a while loop.
+273. Implement the Rail Fence cipher using a while loop.
+274. Implement the Atbash cipher using a while loop.
+275. Implement the Beaufort cipher using a while loop.
+276. Implement the Affine cipher using a while loop.
+277. Implement the Playfair cipher using a while loop.
+278. Implement the Hill cipher using a while loop.
+279. Implement the Enigma cipher simulation using a while loop.
+280. Implement the RSA encryption algorithm using a while loop.
+
+### Miscellaneous Algorithms Using While Loops
+281. Implement the KMP string matching algorithm using a while loop.
+282. Implement the Boyer-Moore string matching algorithm using a while loop.
+283. Implement the Rabin-Karp string matching algorithm using a while loop.
+284. Implement the Knuth-Morris-Pratt algorithm using a while loop.
+285. Implement the Gale-Shapley algorithm for stable marriages using a while loop.
+286. Implement the A* search algorithm using a while loop.
+287. Implement the Bellman-Ford algorithm using a while loop.
+288. Implement the Floyd-Warshall algorithm using a while loop.
+289. Implement the Prim's algorithm for minimum spanning trees using a while loop.
+290. Implement the Kruskal's algorithm for minimum spanning trees using a while loop.
+
+### Programming Challenges Using While Loops
+291. Solve the "n-th Ugly Number" problem using a while loop.
+292. Solve the "Jump Game" problem using a while loop.
+293. Solve the "Trapping Rain Water" problem using a while loop.
+294. Solve the "Longest Palindromic Substring" problem using a while loop.
+295. Solve the "Longest Common Subsequence" problem using a while loop.
+296. Solve the "Edit Distance" problem using a while loop.
+297. Solve the "Maximum Subarray" problem using a while loop.
+298. Solve the "House Robber" problem using a while loop.
+299. Solve the "Climbing Stairs" problem using a while loop.
+300. Solve the "Coin Change" problem using a while loop.
+
