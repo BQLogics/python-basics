@@ -9,3 +9,7 @@ socket.connect ((HOST, PORT))
 
 socket.send("Hello World!".encode('utf-8'))
 print(socket.recv(1024).decode('utf-8'))
+
+
+#this is my chat room example
+#hello
